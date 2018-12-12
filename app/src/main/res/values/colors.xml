@@ -3,4 +3,6 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="backgroundGray">#424250</color> // Main background color.
+    <color name="actionButtonGray">#6c6c6d</color> // Suggestive color for action button.
 </resources>
