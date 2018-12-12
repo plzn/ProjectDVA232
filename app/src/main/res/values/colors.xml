@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="actionButtonGray">#6c6c6d</color> // Suggestive color for action button.
+
+    <!-- Light Theme Colors -->
+    <color name="lightBackground">#000000</color>
+    <color name="colorPrimaryLight">#FFFFFF</color>
+    <color name="colorPrimaryLightDark">#EEEEEE</color>
+    <color name="colorAccentLight">#94c0ad</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="darkBackground">#424250</color>
+    <color name="colorPrimaryDark">#344955</color>
+    <color name="colorPrimaryDarkDark">#232F34</color>
+    <color name="colorAccentDark">#F9AA33</color>
 </resources>

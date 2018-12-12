@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">ProjectDVA232</string>
+    <string name="app_name">Sleep Wake with Music</string>
     <string name="action_settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="getting_started">View Getting Started</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="theme_dialog_title">Theme</string>
+    <string name="theme_summary">Appearance</string>
+    <string name="settings">Settings</string>
+    <string name="def_theme">Dark</string>
 </resources>
