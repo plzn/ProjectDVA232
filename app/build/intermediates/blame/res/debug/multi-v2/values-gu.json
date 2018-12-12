@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android\\AndroidStudioProjects\\ProjectDVA232\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
+            "outputFile": "C:\\Users\\ek33\\Projects\\ProjectDVA232\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ek33\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\40d73ea72a08a31de975a6b8a96bc1f8\\res\\values-gu\\values-gu.xml",
