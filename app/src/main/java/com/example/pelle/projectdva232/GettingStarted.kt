@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentManager
 import android.support.v4.app.FragmentPagerAdapter
 import android.support.v4.view.ViewPager
+import kotlinx.android.synthetic.main.activity_getting_started.*
 
 class GettingStarted : AppCompatActivity() {
 
@@ -19,8 +20,23 @@ class GettingStarted : AppCompatActivity() {
         slideAdapter.addFragment(Page1Fragment(), 0)
         slideAdapter.addFragment(Page2Fragment(), 1)
         slideViewPager.adapter = slideAdapter
+        val dots = PageDots(this, dotsLayout)
+        dots.addDotsIndicator(slideAdapter.count)
+        dots.setActiveDot(0)
+        slideViewPager.addOnPageChangeListener(object: ViewPager.OnPageChangeListener {
+            override fun onPageScrollStateChanged(p0: Int) {
 
+            }
 
+            override fun onPageScrolled(p0: Int, p1: Float, p2: Int) {
+
+            }
+
+            override fun onPageSelected(p0: Int) {
+                dots.setActiveDot(p0)
+            }
+
+        })
     }
 
     class ViewPagerAdapter(manager: FragmentManager) : FragmentPagerAdapter(manager)

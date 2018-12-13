@@ -1,11 +1,10 @@
 <resources>
     <string name="app_name">ProjectDVA232</string>
     <string name="action_settings">Settings</string>
-    <string name="heading">Thanks for dowloading the app!</string>
-    <string name="description">How it works: lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum
-    </string>
-
+    <string name="heading1">Thanks for dowloading the app!</string>
+    <string name="description1">This is an application that lets you fall asleep while saving energy on your smartphone!</string>
+    <string name="heading2">Connect to spotify!</string>
+    <string name="description2">In order to get the best experience of (appname) please connect to spotify</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
