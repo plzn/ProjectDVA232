@@ -8,6 +8,7 @@
         <item name="colorAccent">@color/colorAccentLight</item>
         <item name="android:windowLightStatusBar">true</item>
         <item name="actionBarTheme">@style/AppThemeLight.ActionBar</item>
+        <item name="android:textColor">@color/textColorLight</item>
     </style>
 
 
@@ -23,6 +24,7 @@
         <item name="colorAccent">@color/colorAccentDark</item>
         <item name="android:windowBackground">@color/darkBackground</item>
         <item name="android:windowLightStatusBar">false</item>
+        <item name="android:textColor">@color/textColorDark</item>
     </style>
 
     <style name="AppThemeLight.NoActionBar">

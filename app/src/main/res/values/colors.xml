@@ -7,10 +7,15 @@
     <color name="colorPrimaryLight">#FFFFFF</color>
     <color name="colorPrimaryLightDark">#EEEEEE</color>
     <color name="colorAccentLight">#94c0ad</color>
+    <color name="textColorLight">#FF272727</color>
+    <color name="dividerColorLight">#50000000</color>
 
     <!-- Dark Theme Colors -->
-    <color name="darkBackground">#424250</color>
+    <!--<color name="darkBackground">#424250</color>-->
+    <color name="darkBackground">#FF272727</color>
     <color name="colorPrimaryDark">#344955</color>
     <color name="colorPrimaryDarkDark">#232F34</color>
     <color name="colorAccentDark">#F9AA33</color>
+    <color name="textColorDark">#FFEEEEEE</color>
+    <color name="dividerColorDark">#50FFFFFF</color>
 </resources>
