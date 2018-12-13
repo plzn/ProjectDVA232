@@ -1,12 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\69a78df40a3ee5782e1adb3e00761902\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b8a16bcf3e8f49aab208383d154d3ec2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\779fe0f7c349a14363ea08cf8c5cdf80\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a8faabbc4d0302921d2319128befc6e9\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\575b7fcb23cf3ef50a5463e3cc5afe2f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7c7c3632bbca27cfd2d1b00e26d21e20\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\af63a11f2cd8a25db50c9a91ca575a2c\AndroidManifest.xml:17:1-22:12
@@ -14,6 +15,7 @@ MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pelle\.gradle\
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f5b8f7ab591a1a0b1aa58a638c99c4ac\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d484ab6a544491692dce5301a3af2191\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4701823231f606cda646863f042ab217\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\7aaa89676db8174d1f6620cc5ccb1a59\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0de8819bed8d85a95adb9d162d11fdac\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\57ede2b54884366334f53406d78b0b7e\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2ad975bca08e465d992a0329de2299f9\AndroidManifest.xml:17:1-22:12
@@ -35,25 +37,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pelle\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5c9ff339583f3471d0739a112ffab84f\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\610337ae62737da231996a64c1ff94a3\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\de31286e06ff92f478761082bd84fe88\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:3:11-52
 		INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:5:5-25:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\69a78df40a3ee5782e1adb3e00761902\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\69a78df40a3ee5782e1adb3e00761902\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\779fe0f7c349a14363ea08cf8c5cdf80\AndroidManifest.xml:9:5-20
@@ -77,23 +79,33 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pelle\.gra
 	android:theme
 		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:11:13-44
 activity#com.example.pelle.projectdva232.MainActivity
-ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:12:9-21:20
+ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:12:9-16:20
 	android:label
 		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:14:17-49
 	android:theme
 		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:15:17-60
 	android:name
 		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:13:17-45
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:16:13-20:29
+activity#com.example.pelle.projectdva232.GettingStarted
+ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:theme
+		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:18:9-42
+	android:name
+		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:17:19-49
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:17:17-68
+ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:20:17-68
 	android:name
-		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:20:25-66
+action#android.intent.action.VIEW
+ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:19:17-76
+ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:22:17-76
 	android:name
-		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml:22:27-74
 uses-sdk
 INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Pelle\Desktop\ProjectDVA2322\app\src\main\AndroidManifest.xml
@@ -104,6 +116,8 @@ MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pelle\.gradle\cac
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b8a16bcf3e8f49aab208383d154d3ec2\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\779fe0f7c349a14363ea08cf8c5cdf80\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\779fe0f7c349a14363ea08cf8c5cdf80\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a8faabbc4d0302921d2319128befc6e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a8faabbc4d0302921d2319128befc6e9\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\575b7fcb23cf3ef50a5463e3cc5afe2f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\575b7fcb23cf3ef50a5463e3cc5afe2f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7c7c3632bbca27cfd2d1b00e26d21e20\AndroidManifest.xml:20:5-44
@@ -118,6 +132,8 @@ MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pelle\
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d484ab6a544491692dce5301a3af2191\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4701823231f606cda646863f042ab217\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4701823231f606cda646863f042ab217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\7aaa89676db8174d1f6620cc5ccb1a59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\7aaa89676db8174d1f6620cc5ccb1a59\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0de8819bed8d85a95adb9d162d11fdac\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0de8819bed8d85a95adb9d162d11fdac\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pelle\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\57ede2b54884366334f53406d78b0b7e\AndroidManifest.xml:20:5-44
