@@ -1065,6 +1065,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id alarmActiveSwitch
 id alertTitle
 id all
 id always
@@ -1092,6 +1093,7 @@ id coordinator
 id custom
 id customPanel
 id darkMode
+id daysArrayTextView
 id decor_content_parent
 id default_activity_button
 id design_bottom_sheet
@@ -1139,6 +1141,7 @@ id left
 id line1
 id line3
 id listMode
+id listTextView
 id list_item
 id masked
 id media_actions
@@ -1166,6 +1169,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id recyclerView
 id right
 id right_icon
 id right_side
@@ -1226,6 +1230,7 @@ id textinput_counter
 id textinput_error
 id textinput_helper_text
 id time
+id timeInterval
 id title
 id titleDividerNoCustom
 id title_template
@@ -1294,6 +1299,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout alarm_layout
 layout content_main
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

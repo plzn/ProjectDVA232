@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ek33\\Projects\\ProjectDVA232\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\android\\AndroidStudioProjects\\ProjectDVA232\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ek33\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\1ed58926a9e099bc10c86d28be08b649\\res\\values-v21\\values-v21.xml",
